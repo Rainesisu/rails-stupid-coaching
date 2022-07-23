@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+  font-size: xx-large;
+  padding: 20px;
+}
+
+p {
+  padding: 0px 20px;
+}
+
+form {
+  padding: 0px 20px;
+}
+
+a {
+  padding: 10px;
+}
